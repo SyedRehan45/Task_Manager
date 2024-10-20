@@ -34,27 +34,27 @@ git clone https://github.com/yourusername/task-manager.git
 Open the project in Android Studio.
 Sync the project with Gradle files.
 Run the app on an emulator or physical device.
-Usage
+## Usage
 Add Task: Click the "Add Task" button to create a new task. Provide the task details and save.
 Edit Task: Select a task from the list and update its information.
 Delete Task: Swipe left or right on a task to delete it.
 Mark Task as Complete: Tap on the checkbox to mark a task as complete or incomplete.
-Architecture
+## Architecture
 This project follows the Model-View-ViewModel (MVVM) architecture pattern.
 
 Model: Contains the data structure and the business logic for task management.
 ViewModel: Manages UI-related data in a lifecycle-conscious way and interacts with the Model to fetch and update data.
 View: Displays the tasks and provides UI controls for managing tasks.
-Built With
+## Built With
 Kotlin/Java - The language used for development
 Android SDK - Development environment
 Room Database - For local storage of tasks
 RecyclerView - For displaying a list of tasks
-Contributing
+## Contributing
 Contributions are welcome! Please submit a pull request or open an issue to discuss changes.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+## Contact
 Developer: Syed Rehan
