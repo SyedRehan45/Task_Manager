@@ -18,7 +18,7 @@ This is a Task Manager app that helps users manage their tasks effectively. User
    ```sh
    git clone <repository_url>
 "# Task_Manager" 
-##Screenshots
+## Screenshots
 (Add screenshots of your application here, if available)
 
 Getting Started
