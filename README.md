@@ -21,8 +21,8 @@ This is a Task Manager app that helps users manage their tasks effectively. User
 ## Screenshots
 (Add screenshots of your application here, if available)
 
-Getting Started
-Prerequisites
+## Getting Started
+# Prerequisites
 Android Studio (Version 4.0 or higher)
 Android SDK (API Level 21 or higher)
 Kotlin (Optional if your project uses Kotlin)
